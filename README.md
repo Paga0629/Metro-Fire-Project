@@ -97,7 +97,11 @@ python multifire_test.py
 ![Dehazing and Predicting Smoke Density Results](assets/Results.png)
 ![Dehazing and Predicting Smoke Density Results](assets/Dehazing_regression.png)
 
+### 3. Multimodal Fire Presence Detection Result
+![Multimodal Fire Presence Detection Result](assets/Fire_presence.png)
 
+### 4. Human Detection Result
+![Human Detection Result](assets/Human_detection.png)
 
 ## 🤗 Acknowledgements
 We thank the authors of the following projects!
