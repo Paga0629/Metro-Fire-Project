@@ -12,5 +12,22 @@ pip install -U pip
 # Install requirements in each folders (AECR-Net, haze-synthesis, YOLO)
 pip install -r requirements.txt
 ```
+Please check for details 
+- [AECR-Net](https://github.com/GlassyWu/AECR-Net.git)
+- [haze-synthesis](https://github.com/tranleanh/haze-synthesis.git)
+- [yolov12](https://github.com/sunsmarterjie/yolov12.git)
+
+## Datasets
+We used MetroStation dataset for training and inference.
+
+You can download at the link below.
+- [MetroStation](https://figshare.com/articles/dataset/MetroStation_Dataset/20521848?file=36732258)
+
+## 🤗 Acknowledgements
+We thank the authors of the following projects!
+- [AECR-Net](https://github.com/GlassyWu/AECR-Net.git)
+- [haze-synthesis](https://github.com/tranleanh/haze-synthesis.git)
+- [yolov12](https://github.com/sunsmarterjie/yolov12.git)
+
 
 ![Results](assets/Results.png)
