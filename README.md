@@ -94,13 +94,14 @@ python multifire_test.py
 ![Generated Dehazed Images](assets/dehazed_imgs2.png)
 
 ### 2. Dehazing and Smoke Density Prediction Results
-![Dehazing and Predicting Smoke Density Results](assets/Results.png)
+![Dehazing and Predicting Smoke Density Results](assets/dehaze_result_img.png)
 ![Dehazing and Predicting Smoke Density Results](assets/Dehazing_regression.png)
 
 ### 3. Multimodal Fire Presence Detection Result
 ![Multimodal Fire Presence Detection Result](assets/Fire_presence.png)
 
 ### 4. Human Detection Result
+![Human Detection Result Img](assets/detection_result_img.png)
 ![Human Detection Result](assets/Human_detection.png)
 
 ## 🤗 Acknowledgements
