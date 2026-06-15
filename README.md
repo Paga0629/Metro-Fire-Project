@@ -24,6 +24,14 @@ You can download at the link below.
 - [MetroStation](https://figshare.com/articles/dataset/MetroStation_Dataset/20521848?file=36732258)
 
 
+## Smoke Image Synthesis
+You can generate smoked images using the command below.
+(You can control the smoke density by adjusting the beta and airlight value.)
+```bash
+cd haze-synthesis/
+python main.py --image_path #Your Dataset Path# --model_name mono+stereo_640x192 --output_image_path ./outputs --beta 2.5 --airlight 100
+```
+
 ## Train
 ### 1. Dehazing and Smoke Density Prediction Network
 You can train the model using the command below.
@@ -81,7 +89,7 @@ python multifire_test.py
 
 
 ## Results
-![Results](assets/Results.png)
+![Dehazing and Predicting Smoke Density Results](assets/Results.png)
 
 
 
