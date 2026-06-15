@@ -90,12 +90,12 @@ python multifire_test.py
 
 ## Results
 ### 1. Generated Dehazed Images
-![Generated Dehazed Images](assets/dehazedimgs1.png)
-![Generated Dehazed Images](assets/dehazedimgs2.png)
+![Generated Dehazed Images](assets/dehazed_imgs1.png)
+![Generated Dehazed Images](assets/dehazed_imgs2.png)
 
 ### 2. Dehazing and Smoke Density Prediction Results
 ![Dehazing and Predicting Smoke Density Results](assets/Results.png)
-![Dehazing and Predicting Smoke Density Results](assets/Dehazingregression.png)
+![Dehazing and Predicting Smoke Density Results](assets/Dehazing_regression.png)
 
 
 
