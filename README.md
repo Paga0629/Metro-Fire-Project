@@ -23,6 +23,7 @@ We used MetroStation dataset for training and inference.
 You can download at the link below.
 - [MetroStation](https://figshare.com/articles/dataset/MetroStation_Dataset/20521848?file=36732258)
 
+
 ## Train
 ### 1. Dehazing and Smoke Density Prediction Network
 You can train the model using the command below.
@@ -51,6 +52,7 @@ cd AECR-Net/
 python multifire_train.py
 ```
 
+
 ## Inference
 ### 1. Dehazing and Smoke Density Prediction Network
 You can run inference on the model using the command below.
@@ -77,8 +79,10 @@ cd YOLO/
 python multifire_test.py
 ```
 
+
 ## Results
 ![Results](assets/Results.png)
+
 
 
 ## 🤗 Acknowledgements
