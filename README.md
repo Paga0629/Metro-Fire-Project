@@ -84,9 +84,9 @@ python multifire_test.py
 You can run inference on the model using the command below.
 ```bash
 cd YOLO/
-python multifire_test.py
+python yolo_world.py
+python detection_acc.py
 ```
-
 
 ## Results
 ### 1. Generated Dehazed Images
