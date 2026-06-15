@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Please check for details 
 - [AECR-Net](https://github.com/GlassyWu/AECR-Net.git)
 - [haze-synthesis](https://github.com/tranleanh/haze-synthesis.git)
-- [yolov12](https://github.com/sunsmarterjie/yolov12.git)
+- [yolo26](https://github.com/ultralytics/ultralytics.git)
 
 ### 2. Datasets
 We used MetroStation dataset for training and inference.
